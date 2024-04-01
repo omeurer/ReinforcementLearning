@@ -1,5 +1,5 @@
 # ReinforcementLearning
-Folder containing all my project in Reinforcement Learning.
+Folder containing all my projects in Reinforcement Learning.
 
 
 1. [Flappy Bird Game](https://github.com/omeurer/ReinforcementLearning/blob/main/FlappyBird_RL.ipynb)
